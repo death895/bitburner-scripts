@@ -10,7 +10,7 @@ const easyAccessFactions = [
     "BitRunners", "CyberSec", "NiteSec", "The Black Hand", /* Hack Based */ "Netburners", /* Hacknet-based */ "Slum Snakes", "Tetrads", /* Early Crime */
 ];
 const default_priority_augs = ["The Red Pill", "The Blade's Simulacrum", "Neuroreceptor Management Implant"]; // By default, take these augs when they are accessible
-const default_desired_augs = ["CashRoot Starter Kit"] // By default, mark these augs as "desired" regardless of their stats
+const default_desired_augs = ["CashRoot Starter Kit", "PCMatrix", "Bitrunners Neurolink"] // By default, mark these augs as "desired" regardless of their stats
 // If not in a gang, and we are nearing unlocking gangs (54K Karma) we will attempt to join any/all of these factions
 const potentialGangFactions = ["Slum Snakes", "Tetrads", "The Syndicate", "The Dark Army", "Speakers for the Dead"];
 const default_hidden_stats = ['bladeburner', 'hacknet']; // Hide from the summary table by default because they clearly all come from one faction.
