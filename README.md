@@ -135,7 +135,8 @@ It's meant as an easy way for me to share code with friends, and track changes a
 - Please don't be insulted if you make a feature request, bug report, or pull request that I decline to act on.
 While I do like my work to be helpful to others and re-used, I am only willing to put so much effort into customizing it to others' specific needs or whims.
 You should fork the code, and start tweaking it the way you want it to behave. That's more in the spirit of the game!
-
+I forked this from the original creator: alainbryden/bitburner-scripts
+so far only changed the faction manager
 Hit up the Bitburner Discord with any questions:
 - Invite to Bitburner Disccord: https://discord.com/invite/TFc3hKD
 - Link to the channel for these scripts: [Bitburner#alains-scripts](https://discord.com/channels/415207508303544321/935667531111342200)
